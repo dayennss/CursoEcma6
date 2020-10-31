@@ -1,0 +1,36 @@
+
+body {
+    background-color: rgba(25, 175, 229, 0.741);
+}
+
+.painel-add-contato {
+    background-color: #fff;
+    position: fixed;
+    width: 100%;
+    padding: 10px;;
+}
+
+.painel-add-contato .bi {
+    width: 30px;
+    color: rgb(5, 42, 68);
+    font-size: 30pt;
+}
+
+.painel-lista-contato {
+    padding-top: 80px!important;
+}
+.painel-lista-contato img{
+    float: left;
+    margin-right: 10px;
+    width: 60px;
+}
+
+ul {
+    list-style: none;
+}
+
+ul li {
+    margin:10px;
+    border: 1px darkblue dashed;
+    padding: 10px
+}
